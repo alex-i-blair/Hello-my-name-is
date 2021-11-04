@@ -59,3 +59,8 @@ footer {
     height: 100px;
     margin: 50px 0 0 75px;
 }
+
+.colors {
+    display: flex;
+    width: 100%;
+}
